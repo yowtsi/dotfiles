@@ -1,0 +1,5 @@
+
+alias pacman=pacmatic
+alias sctl=systemctl
+alias ls='ls --color=auto'
+
